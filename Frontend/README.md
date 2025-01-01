@@ -235,3 +235,5 @@ export default tseslint.config({
   },
 })
 ```
+
+apagar
